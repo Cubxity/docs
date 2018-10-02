@@ -71,16 +71,16 @@ SendGrid does not merge a pull request made against a SendGrid open source proje
 ### Dependencies
 
 * Required:
-    * Git
-    * Xcode
-    * Java
-    * Rvm
-    * Yaml
-    * Homebrew
-    * npm
-    * git-flow
-    * bundler gem
-    * bower
+    * (Git)[https://git-scm.com/]
+    * (Xcode)[https://developer.apple.com/xcode/]
+    * (Java)[https://www.java.com/en/download/]
+    * (Rvm)[https://rvm.io/]
+    * (Yaml)[http://yaml.org/]
+    * (Homebrew)[https://brew.sh/]
+    * (npm)[https://www.npmjs.com/]
+    * (git-flow)[https://github.com/nvie/gitflow]
+    * (bundler gem)[https://bundler.io/]
+    * (bower)[https://bower.io/]
 
 <a name="setup"></a>
 ### Setup Steps
